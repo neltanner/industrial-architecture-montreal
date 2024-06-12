@@ -4,3 +4,6 @@ creator,Creator,,,
 subject,,true
 location,,true
 identifier,,,true,Identifier
+architect,Architect,true,
+building_type,Building Type,true
+architecture_firm,Architectural Firm,true
