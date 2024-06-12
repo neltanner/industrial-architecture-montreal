@@ -1,12 +1,12 @@
 display_name,stub,dropdown_parent
 Home,/,
-Locations,/locations.html,
-Map,/map.html,
-Timeline,/timeline.html,
 Browse by,
 Browse All,/browse.html,Browse by
 Architect,/architect.html,Browse by
 Architectural Firm,/firm.html,Browse by
 Building Type,/buildingtype.html,Browse by
+Street Name,/locations.html,Browse by
+Map,/map.html,
+Timeline,/timeline.html,
 Data,/data.html,
 About,/about.html,
