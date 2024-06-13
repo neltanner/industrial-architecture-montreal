@@ -1,5 +1,5 @@
 field,display_name
 title,Title
-date,Date
-description,Description
-subject,Subjects
+building_type,Building Type
+architect,Architect
+architecture_firm,Architecture Firm
