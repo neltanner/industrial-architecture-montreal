@@ -1,10 +1,12 @@
 ---
+
 title: Architectural Firm or Partnership
 layout: cloud
 permalink: /firm.html
-# Default subject page is configured in "_data/theme.yml"
-# leave cloud-fields as "site.data.theme.subjects-fields"
-cloud-fields: site.data.theme.subjects-fields
+cloud-fields: architecture_firm
+cloud-min: 
+cloud-stopwords:
+
 ---
 
 ## Browse by Architectural Firm or Partnership

@@ -2,3 +2,24 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+
+/* creating a narrow text column */ 
+.about-contents > {
+    h2 {
+        font-weight: bold;
+        padding-top: 100px;
+        border-top: 1px dotted black;
+    }
+    
+    h1, h2, h3, h4, h5, h6 {
+        max-width: 900px;
+        margin: 1.5rem auto 1rem;
+    }
+    
+    p, .about-narrowed-content, .footnotes, ol, ul, blockquote {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 900px;
+    }
+
+}
