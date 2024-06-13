@@ -1,10 +1,16 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
+address,Address,,,,,
+building_type,Type of Building,true,,,
+architect,Architect,true,,,
+architecture_firm,Architectural Firm or Partnership,true,,,
+building_materials,Building Materials,,,,
+date_began,Date Construction Began,,,,
+date_completed,Date Construction Completed,,,,
+date_alteration,Date of Alteration,,,,
+date_restoration,Date of Restoriation,,,,
+date_demolished,Date Demolished,,,,
 description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
