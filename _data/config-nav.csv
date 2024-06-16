@@ -1,5 +1,6 @@
 display_name,stub,dropdown_parent
 Home,/,
+About,/about.html,
 Browse by,
 Browse All,/browse.html,Browse by
 Architect,/architect.html,Browse by
@@ -8,5 +9,5 @@ Building Type,/buildingtype.html,Browse by
 Street Name,/locations.html,Browse by
 Map,/map.html,
 Timeline,/timeline.html,
+Bibliography,/bibliography.html
 Data,/data.html,
-About,/about.html,
