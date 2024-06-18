@@ -1,5 +1,5 @@
 ---
-title: Boxes
+title: Boxer
 layout: about
 permalink: /boxer.html
 # include CollectionBuilder info at bottom
@@ -11,7 +11,7 @@ permalink: /boxer.html
 {%- assign items = site.data[site.metadata] -%}
 
 {% for item in items %}
-{% if item.architect contains "Reeves" %}
+{% if item.architect contains "Boxer" %}
 {{item.architect}}
 {{item.birthdate}}
 {% endif %}

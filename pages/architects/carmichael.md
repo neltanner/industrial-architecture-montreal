@@ -1,7 +1,7 @@
 ---
-title: Reeves
+title: Carmichael
 layout: about
-permalink: /reeves.html
+permalink: /carmichael.html
 # include CollectionBuilder info at bottom
 # credits: true
 # Edit the markdown on in this file to describe your collection
@@ -11,7 +11,7 @@ permalink: /reeves.html
 {%- assign items = site.data[site.metadata] -%}
 
 {% for item in items %}
-{% if item.architect contains "Reeves" %}
+{% if item.architect contains "Carmichael" %}
 {{item.architect}}
 {{item.birthdate}}
 {% endif %}

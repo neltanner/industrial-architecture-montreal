@@ -11,7 +11,7 @@ permalink: /clyde.html
 {%- assign items = site.data[site.metadata] -%}
 
 {% for item in items %}
-{% if item.architect contains "Reeves" %}
+{% if item.architect contains "Brown" %}
 {{item.architect}}
 {{item.birthdate}}
 {% endif %}
