@@ -10,6 +10,6 @@ date_completed,Date Construction Completed,,,,
 date_alteration,Date of Alteration,,,,
 date_restoration,Date of Restoriation,,,,
 date_demolished,Date Demolished,,,,
-description,Description,,,DCTERMS.description,description
+description,Image Description,,,DCTERMS.description,description
 source,Source,,,,
 rightsstatement,,,,DCTERMS.rights,license
