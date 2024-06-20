@@ -1,5 +1,5 @@
 ---
-title: Ostell
+title: Ostell, John
 layout: about
 permalink: /ostell.html
 # include CollectionBuilder info at bottom

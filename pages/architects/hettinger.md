@@ -1,5 +1,5 @@
 ---
-title: Hettinger
+title: Hettinger, C.F.
 layout: about
 permalink: /hettinger.html
 # include CollectionBuilder info at bottom

@@ -1,5 +1,5 @@
 ---
-title: Clyde
+title: Arrols of Clyde, William
 layout: about
 permalink: /clyde.html
 # include CollectionBuilder info at bottom

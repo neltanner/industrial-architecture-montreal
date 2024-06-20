@@ -1,5 +1,5 @@
 ---
-title: Footner
+title: Footner, William
 layout: about
 permalink: /footner.html
 # include CollectionBuilder info at bottom

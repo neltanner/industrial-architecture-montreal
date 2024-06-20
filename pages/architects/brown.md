@@ -1,6 +1,6 @@
 ---
-title: Brown
-layout: about
+title: Brown, David Robertson
+layout: item/item-architect
 permalink: /brown.html
 # include CollectionBuilder info at bottom
 # credits: true

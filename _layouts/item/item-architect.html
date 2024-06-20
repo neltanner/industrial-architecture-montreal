@@ -1,21 +1,19 @@
 ---
-title: Boxer, Frederick (Francois) Nepheau
-layout: about
-permalink: /boxer.html
-# include CollectionBuilder info at bottom
-# credits: true
-# Edit the markdown on in this file to describe your collection
-# Look in _includes/feature for options to easily add features to the page
+# layout for architect bio pages
+# adds breadcrumbs and title at top; citation box, rights box, and browse buttons at bottom
+layout: default
+# item-meta adds rich meta markup to the page on production build
+item-meta: true
 ---
 
 {%- assign items = site.data.architects -%}
 
 {% for item in items %}
-{% if item.title contains "Boxer" %}
+{% if item.title contains page.title %}
 
 <div class="container py-3">
     {% include item/breadcrumbs.html %}
-    <h2 class="mb-3">{{ page.title }}{{ item.active }} </h2>
+    <h2 class="mb-3">{{ page.title }} (active {{ item.active }}) </h2>
 </div>
 
 <div class="container py-3">

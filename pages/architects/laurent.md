@@ -1,5 +1,5 @@
 ---
-title: Laurent
+title: Laurent, Michel
 layout: about
 permalink: /laurent.html
 # include CollectionBuilder info at bottom

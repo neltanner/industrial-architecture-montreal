@@ -1,6 +1,6 @@
 ---
-title: Amos
-layout: about
+title: Amos, Louis Auguste
+layout: item/item-architect
 permalink: /amos.html
 # include CollectionBuilder info at bottom
 # credits: true

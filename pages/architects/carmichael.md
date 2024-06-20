@@ -1,5 +1,5 @@
 ---
-title: Carmichael
+title: Carmichael, William John
 layout: about
 permalink: /carmichael.html
 # include CollectionBuilder info at bottom

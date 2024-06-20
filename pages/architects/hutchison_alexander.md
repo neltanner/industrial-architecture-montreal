@@ -1,6 +1,6 @@
 ---
-title: Hutchison
-layout: about
+title: Hutchison, Alexander Cowper
+layout: item/item-architect
 permalink: /hutchison_alexander.html
 # include CollectionBuilder info at bottom
 # credits: true

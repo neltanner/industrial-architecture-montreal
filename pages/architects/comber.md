@@ -1,5 +1,5 @@
 ---
-title: Comber
+title: Comber, Sydney
 layout: about
 permalink: /comber.html
 # include CollectionBuilder info at bottom

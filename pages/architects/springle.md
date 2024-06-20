@@ -1,6 +1,6 @@
 ---
 title: Springle
-layout: about
+layout: item/item-architect
 permalink: /springle.html
 # include CollectionBuilder info at bottom
 # credits: true

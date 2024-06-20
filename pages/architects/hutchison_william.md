@@ -1,5 +1,5 @@
 ---
-title: Hutchison
+title: Hutchison, William Burnet
 layout: about
 permalink: /hutchison_william.html
 # include CollectionBuilder info at bottom

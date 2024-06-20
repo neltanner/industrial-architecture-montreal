@@ -1,5 +1,5 @@
 ---
-title: Cormier
+title: Cormier, Ernest
 layout: about
 permalink: /cormier.html
 # include CollectionBuilder info at bottom
