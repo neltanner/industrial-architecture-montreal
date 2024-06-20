@@ -8,11 +8,16 @@ permalink: /laurent.html
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{%- assign items = site.data[site.metadata] -%}
+{%- assign items = site.data.architects -%}
 
 {% for item in items %}
-{% if item.architect contains "Laurent" %}
-{{item.architect}}
+{% if item.title contains "Laurent" %}
+{{item.title}}
 {{item.birthdate}}
+{{item.deathdate}}
+{{item.active}}
+{{item.education}}
+{{item.birthplace}}
+{{item.notes}}
 {% endif %}
 {% endfor %}

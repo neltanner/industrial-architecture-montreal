@@ -1,18 +1,20 @@
 ---
-title: Hutchison
+title: Hutchison, Wood, & Miller
 layout: about
-permalink: /hutchison.html
+permalink: /hutchison_wood_miller.html
 # include CollectionBuilder info at bottom
 # credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{%- assign items = site.data[site.metadata] -%}
+{%- assign items = site.data.firms -%}
 
 {% for item in items %}
-{% if item.architect contains "Hutchison" %}
-{{item.architect}}
-{{item.birthdate}}
+{% if item.title contains "Hutchison, Wood & Miller" %}
+{{item.title}}
+{{item.firmdates}}
+{{item.firmlocation}}
+{{item.notes}}
 {% endif %}
 {% endfor %}

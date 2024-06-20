@@ -1,7 +1,7 @@
 ---
-title: Footner
+title: Hutchison
 layout: about
-permalink: /footner.html
+permalink: /hutchison.html
 # include CollectionBuilder info at bottom
 # credits: true
 # Edit the markdown on in this file to describe your collection
@@ -11,7 +11,7 @@ permalink: /footner.html
 {%- assign items = site.data.architects -%}
 
 {% for item in items %}
-{% if item.title contains "Footner" %}
+{% if item.title contains "Hutchison, Alexander Cowper" %}
 {{item.title}}
 {{item.birthdate}}
 {{item.deathdate}}
