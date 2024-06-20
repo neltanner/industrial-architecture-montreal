@@ -1,7 +1,7 @@
 ---
 title: Hutchison
 layout: about
-permalink: /hutchison.html
+permalink: /hutchison_alexander.html
 # include CollectionBuilder info at bottom
 # credits: true
 # Edit the markdown on in this file to describe your collection
