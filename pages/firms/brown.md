@@ -1,7 +1,7 @@
 ---
-title: MacDuff
+title: Brown
 layout: about
-permalink: /macduff.html
+permalink: /brown.html
 # include CollectionBuilder info at bottom
 # credits: true
 # Edit the markdown on in this file to describe your collection

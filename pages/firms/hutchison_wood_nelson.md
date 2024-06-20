@@ -1,7 +1,7 @@
 ---
-title: MacDuff
+title: Hutchison, Wood, Nelson
 layout: about
-permalink: /macduff.html
+permalink: /hutchison_wood_nelson.html
 # include CollectionBuilder info at bottom
 # credits: true
 # Edit the markdown on in this file to describe your collection
