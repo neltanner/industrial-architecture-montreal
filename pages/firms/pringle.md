@@ -1,7 +1,7 @@
 ---
-title: Dunlop & Heriot
+title: T. Pringle & Son (Engineers)
 layout: about
-permalink: /dunlop.html
+permalink: /pringle.html
 # include CollectionBuilder info at bottom
 # credits: true
 # Edit the markdown on in this file to describe your collection

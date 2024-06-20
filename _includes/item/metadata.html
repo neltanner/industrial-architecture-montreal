@@ -15,9 +15,18 @@
             {% for t in topics %}
             <a class="me-3" href="{{ t | strip | url_param_escape | prepend: '/browse.html#' | relative_url }}">{{ t | strip }}</a>
             {% endfor %}
+
+            <dt>Architect:</dt>
+            <dd><a target="_self" rel="noopener" href="{{ page.architect_url | relative_url }}">{{ page.architect }}</a>
+            </dd>
+
+            <dt>Architecture Firm or Partnership:</dt>
+            <dd><a target="_self" rel="noopener" href="{{ page.architecture_firm_url | relative_url }}">{{ page.architecture_firm }}</a>
+            </dd>
+
             {% elsif f.external_link == "true" %}
             <a href="{{ page[f.field] }}" rel="noopener">{{ page[f.field] }}</a>
-            {% else %}
+            {% else %}     
             {{ page[f.field] | replace: '""','"' }}{% endif %}
         </dd>
 

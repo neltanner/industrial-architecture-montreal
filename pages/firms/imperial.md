@@ -1,7 +1,7 @@
 ---
-title: Dunlop & Heriot
+title: Engineers of Imperial Tobacco
 layout: about
-permalink: /dunlop.html
+permalink: /imperial.html
 # include CollectionBuilder info at bottom
 # credits: true
 # Edit the markdown on in this file to describe your collection

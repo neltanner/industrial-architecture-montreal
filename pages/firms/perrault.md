@@ -1,5 +1,5 @@
 ---
-title: Perrault
+title: Perrault & Gadbois
 layout: about
 permalink: /perrault.html
 # include CollectionBuilder info at bottom

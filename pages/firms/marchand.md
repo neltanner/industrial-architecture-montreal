@@ -1,5 +1,5 @@
 ---
-title: Marchand
+title: Marchand & Haskell
 layout: about
 permalink: /marchand.html
 # include CollectionBuilder info at bottom

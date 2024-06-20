@@ -1,5 +1,5 @@
 ---
-title: Ross Macdonald
+title: Ross & Macdonald
 layout: about
 permalink: /ross_macdonald.html
 # include CollectionBuilder info at bottom

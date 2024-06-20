@@ -38,12 +38,12 @@ metadata: industrial_architecture_montreal
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
-#   - data: 'demo-metadata'
-#     template: 'item'
-#     name: 'objectid'
-#     dir: 'items'
-#     extension: 'html' 
-#     filter: 'objectid'  
+#    template: 'item'
+#  - data: 'architects'
+#    name: 'objectid'
+#    dir: 'items'
+#    extension: 'html' 
+#    filter: 'objectid'  
 
 ##########
 # Site/Organization Branding 

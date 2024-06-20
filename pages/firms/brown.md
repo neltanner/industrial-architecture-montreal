@@ -1,5 +1,5 @@
 ---
-title: Brown
+title: Brown & Vallance
 layout: about
 permalink: /brown.html
 # include CollectionBuilder info at bottom

@@ -1,5 +1,5 @@
 ---
-title: McDougall
+title: McDougall & Pease
 layout: about
 permalink: /mcdougall.html
 # include CollectionBuilder info at bottom

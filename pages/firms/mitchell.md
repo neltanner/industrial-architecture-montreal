@@ -1,5 +1,5 @@
 ---
-title: Mitchell
+title: Mitchell & Creighton
 layout: about
 permalink: /mitchell.html
 # include CollectionBuilder info at bottom

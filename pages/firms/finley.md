@@ -1,5 +1,5 @@
 ---
-title: Finley
+title: Finley & Spence
 layout: about
 permalink: /finley.html
 # include CollectionBuilder info at bottom

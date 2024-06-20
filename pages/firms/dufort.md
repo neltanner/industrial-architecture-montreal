@@ -1,5 +1,5 @@
 ---
-title: Dufort
+title: Dufort & Decary
 layout: about
 permalink: /dufort.html
 # include CollectionBuilder info at bottom

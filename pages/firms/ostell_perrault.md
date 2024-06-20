@@ -1,7 +1,7 @@
 ---
-title: Dunlop & Heriot
+title: Ostell & Perrault
 layout: about
-permalink: /dunlop.html
+permalink: /ostell_perrault.html
 # include CollectionBuilder info at bottom
 # credits: true
 # Edit the markdown on in this file to describe your collection

@@ -1,5 +1,5 @@
 ---
-title: MacDuff
+title: MacDuff & Lemieux
 layout: about
 permalink: /macduff.html
 # include CollectionBuilder info at bottom

@@ -1,5 +1,5 @@
 ---
-title: Hutchison Wood
+title: Hutchiso & Wood
 layout: about
 permalink: /hutchison_wood.html
 # include CollectionBuilder info at bottom
