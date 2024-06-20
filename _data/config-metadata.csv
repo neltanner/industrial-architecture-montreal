@@ -2,8 +2,8 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 address,Address,,,,,
 building_type,Type of Building,true,,,
-
-architecture_firm,Architectural Firm or Partnership,,true,,
+architect,Architect,,,,
+architecture_firm,Architectural Firm or Partnership,,,,
 building_materials,Building Materials,,,,
 date_began,Date Construction Began,,,,
 date_completed,Date Construction Completed,,,,

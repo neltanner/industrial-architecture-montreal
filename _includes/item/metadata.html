@@ -16,16 +16,28 @@
             <a class="me-3" href="{{ t | strip | url_param_escape | prepend: '/browse.html#' | relative_url }}">{{ t | strip }}</a>
             {% endfor %}
 
-            <dt>Architect:</dt>
+
+
+            {%- comment -%}
+            {% elsif f.field == "architect" %}
+            <dt>Architectmanual:</dt>
             <dd><a target="_self" rel="noopener" href="{{ page.architect_url | relative_url }}">{{ page.architect }}</a>
             </dd>
-
-            <dt>Architecture Firm or Partnership:</dt>
+            {% elsif f.field == "architecture_firm" %}
+            <dt>Architecture Firm or Partnershipmanual:</dt>
             <dd><a target="_self" rel="noopener" href="{{ page.architecture_firm_url | relative_url }}">{{ page.architecture_firm }}</a>
             </dd>
+            {%- endcomment -%}
 
             {% elsif f.external_link == "true" %}
             <a href="{{ page[f.field] }}" rel="noopener">{{ page[f.field] }}</a>
+
+
+            {% elsif f.field == "architect" %}
+            <a href="{{ page['architect_url'] | downcase | relative_url }}">{{ page[f.field] }}</a>
+            {% elsif f.field == "architecture_firm" %}
+            <a href="{{ page['architecture_firm_url'] | downcase | relative_url }}">{{ page[f.field] }}</a>
+
             {% else %}     
             {{ page[f.field] | replace: '""','"' }}{% endif %}
         </dd>

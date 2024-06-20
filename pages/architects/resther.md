@@ -1,7 +1,7 @@
 ---
-title: Rester
+title: Resther
 layout: about
-permalink: /rester.html
+permalink: /resther.html
 # include CollectionBuilder info at bottom
 # credits: true
 # Edit the markdown on in this file to describe your collection

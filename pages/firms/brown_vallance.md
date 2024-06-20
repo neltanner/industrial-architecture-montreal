@@ -1,7 +1,7 @@
 ---
 title: Brown & Vallance
 layout: about
-permalink: /brown.html
+permalink: /brown_vallance.html
 # include CollectionBuilder info at bottom
 # credits: true
 # Edit the markdown on in this file to describe your collection
