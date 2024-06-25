@@ -39,3 +39,61 @@ The industrial boom lasted well into our own century until changes in industrial
 # Site Credits
 
 Initial funding for this project was generously provided by Young Canada Works in Heritage Institutions and Young Canada Works in Science and Technology. The Blackader-Lauterman Library extends its sincere appreciation to the Canadian Library Association and the Department of Canadian Heritage for making these funds available and to the Digital Collections Program, McGill University for their cooperation.
+
+Original site Produced By:
+Blackader-Lauterman Library of Architecture and Art
+<a href="http://www.mcgill.ca/library/find/digitization">Digital Collections</a>; <a href="http://www.mcgill.ca">McGill University</a>
+
+Financial Assistance Graciously Provided By:
+Young Canada Works in Science and Technology and in Heritage Institutions, the Department of Canadian Heritage, and the Canadian Library Association.
+
+Project Head:
+Marilyn Berger, Head Librarian
+
+Researcher/Project Coordinator:
+Jessica Schaap
+
+Webmaster/Database Designer:
+David Clearwater
+
+Special Thanks Go To:
+David McKnight and Marwan Al-Sabbagh, Digital
+Collections Program, McGill University;
+Dinu Bumbaru, Heritage Montreal;
+Francoise Roux, Librarian &amp; Veronique Rodriguez, Archivist, Canadian Centre for Architecture Library and Archives;
+Heather McNab, McCord Museum Museum of Canadian History, Notman Photographic Archive;
+Dr. Jeanne Wolfe, Department of Urban Planning, McGill University;
+Jean Letendre, Parcs Canada;
+David Janigan, Mill Manager, Kruger Inc.;
+Staff at the Rare Books and Special Collections Division, McGill University;
+Carol Marley, Walter Hitschfeld Geographic Information Centre, McGill University;
+
+## Technical Specifications for Original Site
+<b>Images</b>
+
+Archival Images Scanned at 300 DPI and Preserved in JPEG Format.&nbsp; Digital Photographs taken in 1024x768 at a Resolution of 72 DPI (Olympus D-500L) and 756x504 at 72 DPI (Kodak DC-40).&nbsp; Edited Images Distributed in JPG Format at a Resolution of 72 DPI (variable dimensions).<br>
+
+<b>Database</b>
+
+Microsoft Access 97
+
+<b>Software</b>
+
+ACDSee 32 v.2.41
+Adobe Photoshop 4.0/5.0
+Arachnophilia 3.9
+Microsoft Frontpage 98
+
+<b>Digital Cameras</b>
+
+Olympus D-500L PC Still Camera
+Kodak DC-40
+
+<b>Scanners</b>
+
+Progres 3012 Genoptik Digital Camera
+ Microtek Scanmaker III
+
+<b>Server</b>
+
+HP NetServer LH Plus
