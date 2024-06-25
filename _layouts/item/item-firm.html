@@ -1,7 +1,43 @@
 ---
-# layout for architect bio pages
+# layout for architectural firm info pages
 # adds breadcrumbs and title at top; citation box, rights box, and browse buttons at bottom
 layout: default
 # item-meta adds rich meta markup to the page on production build
 item-meta: true
 ---
+
+{%- assign items = site.data.firms -%}
+
+{% for item in items %}
+{% if item.title contains page.title %}
+
+<div class="container py-3">
+    {% include item/breadcrumbs.html %}
+    <h2 class="mb-3">{{ page.title }} {% if item.firmdates %}(active {{ item.firmdates }}){% endif %} </h2>
+</div>
+
+<div class="container py-3">
+{% if item.firmlocation %}
+<dt>Location:</dt>
+<dd>{{item.firmlocation}}</dd>
+{% endif %}
+
+{% if item.architects %}
+<dt>Architects Associated with this Firm/Partnership:</dt>
+<dd>{{item.architects}}</dd>
+{% endif %}
+
+{% if item.notes %}
+<dt>Notes:</dt>
+<dd>{{item.notes}}</dd>
+{% endif %}
+
+{% if item.sources %}
+<dt>Sources:</dt>
+<dd>{{item.sources}}</dd>
+{% endif %}
+
+</div>
+
+{% endif %}
+{% endfor %}

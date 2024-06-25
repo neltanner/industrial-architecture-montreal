@@ -13,7 +13,7 @@ item-meta: true
 
 <div class="container py-3">
     {% include item/breadcrumbs.html %}
-    <h2 class="mb-3">{{ page.title }} (active {{ item.active }}) </h2>
+    <h2 class="mb-3">{{ page.title }} {% if item.active %}(active {{ item.active }}){% endif %} </h2>
 </div>
 
 <div class="container py-3">

@@ -51,7 +51,7 @@ page_gen:
 #    extension: 'html' 
 #    filter: 'objectid'
   - data: 'firms'
-#    template: 'item'
+    template: 'item-firm'
 #    name: 'objectid'
     dir: 'items/firms'
 #    extension: 'html' 
