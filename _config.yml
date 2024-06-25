@@ -37,17 +37,23 @@ author: CollectionBuilder
 metadata: industrial_architecture_montreal
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
-#page_gen: 
-#  - data: 'architects'
+page_gen: 
+  - data: 'industrial_architecture_montreal'
 #    template: 'item'
 #    name: 'objectid'
 #    dir: 'items/architects'
 #    extension: 'html' 
 #    filter: 'objectid'
-#  - data: 'firms'
+  - data: 'architects'
+    template: 'item-architect'
+#    name: 'objectid'
+    dir: 'items/architects'
+#    extension: 'html' 
+#    filter: 'objectid'
+  - data: 'firms'
 #    template: 'item'
 #    name: 'objectid'
-#    dir: 'items/firms'
+    dir: 'items/firms'
 #    extension: 'html' 
 #    filter: 'objectid'
 
