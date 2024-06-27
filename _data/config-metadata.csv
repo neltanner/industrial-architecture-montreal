@@ -1,5 +1,6 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
+former_name,Former Name,,,,
 address,Address,,,,,
 building_type,Type of Building,true,,,
 architect,Architect,,,,
