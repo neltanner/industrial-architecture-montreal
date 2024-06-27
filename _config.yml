@@ -64,8 +64,8 @@ page_gen:
 #
 organization-name: "McGill Libraries"
 organization-link: https://www.mcgill.ca/library/find/digitization
-organization-logo-banner: https://www.mcgill.ca/visual-identity/files/visual-identity/red_on_white.png
-organization-logo-nav: https://www.mcgill.ca/visual-identity/files/visual-identity/red_on_white.png
+organization-logo-banner: assets/img/McG_LIBRARIES_rgb_red-rev_hor_en.png
+organization-logo-nav: assets/img/McG_LIBRARIES_rgb_red-rev_hor_en.png
 
 ##########
 # ROBOTS EXCLUDE
