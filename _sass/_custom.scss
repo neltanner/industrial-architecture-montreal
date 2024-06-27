@@ -24,3 +24,14 @@
     }
 
 }
+
+.dropdown-item.active, .dropdown-item:active {
+    color: #fff;
+    text-decoration: none;
+    background-color: #087F8C;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #024F6D;
+  }
