@@ -3,7 +3,7 @@ Home,/,
 About,/about.html,
 Browse by,
 Browse All,/browse.html,Browse by
-Architect,/architect.html,Browse by
+Architect,/browse_architects.html,Browse by
 Architectural Firm,/firm.html,Browse by
 Building Type,/buildingtype.html,Browse by
 Street Name,/locations.html,Browse by
@@ -11,4 +11,3 @@ Map,/map.html,
 Timeline,/timeline.html,
 Bibliography,/bibliography.html
 Data,/data.html,
-Test Browse by Architect,/timeline_architects.html
