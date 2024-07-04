@@ -1,9 +1,9 @@
 ---
-# "Browse by Architect" page
+# "Browse by Firms" page
 layout: page
 custom-foot: js/timeline-js.html
 ---
-{%- assign field = site.data.theme.timeline-field | default: page.timeline-field | default: "architect" -%}
+{%- assign field = site.data.theme.timeline-field | default: page.timeline-field | default: "architecture_firm" -%}
 {% if site.data.theme.timeline-child-objects == true %}
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
 {% else %}
@@ -24,7 +24,7 @@ custom-foot: js/timeline-js.html
 {%- if navYears -%}
 <div class="dropdown float-end" id="year-nav">
     <button class="btn btn-primary dropdown-toggle" type="button" id="yearButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        Select an Architect
+        Select an Architectural Firm
     </button>
     <div class="dropdown-menu" aria-labelledby="yearButton">
         {% for y in navYears %}
