@@ -23,11 +23,11 @@ title: Industrial Architecture of Montreal
 tagline: #
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: " An index of industrial buildings in the city of Montreal"
+description: "An index of industrial buildings in the city of Montreal, originally created by McGill Libraries in 1999"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: montreal;quebec;architecture;industrial;industrial architecture
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: McGill Libraries
 
 ##########
 # COLLECTION SETTINGS
