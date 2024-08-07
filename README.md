@@ -1,6 +1,6 @@
 # Industrial Architecture of Montreal CollectionBuilder pilot
 
-As part of our investigations into options for addressing old and outddated digital collections sites hosted by McGill Libraries, we're looking at migration to other platforms as a solution for some sites. This is a pilot project to assess the suitability of CollectionBuilder for migrating older digital collections websites, using the site [Industrial Architecture of Montreal](https://digital.library.mcgill.ca/industrial/), as index of industrial buildings, as a test case.
+As part of our work with older digital collections ane exhibition sites hosted by McGill Libraries, we're looking at migration to other platforms as a potential solution for some sites. This is a pilot project to assess the suitability of CollectionBuilder for migrating older digital collections sites, using the site [Industrial Architecture of Montreal](https://digital.library.mcgill.ca/industrial/), an index of industrial buildings, as a test case.
 
 ## CollectionBuilder 
 
