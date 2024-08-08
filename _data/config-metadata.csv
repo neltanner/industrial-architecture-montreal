@@ -12,5 +12,6 @@ date_alteration,Date of Alteration,,,,
 date_restoration,Date of Restoriation,,,,
 date_demolished,Date Demolished,,,,
 description,Image Description,,,DCTERMS.description,description
-source,Source,,,,
+note,Notes
+sources,Sources,,,,
 rightsstatement,,,,DCTERMS.rights,license
