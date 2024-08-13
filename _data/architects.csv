@@ -1,45 +1,316 @@
-objectid,title,birthdate,deathdate,active,education,birthplace,notes,image_filename
-a001,"Spence, D. Jerome",1873/5,1955,1901-1940,Attended School of Architecture. Massachusetts Institute of Technology (1896).,"Louisville, Kentucky U.S.A.",Awarded medal of merit by Royal Architectural Institute of Canada (R.A.I.C.) (1952).,https://digital.library.mcgill.ca/industrial/images/drbrown.jpg
-a002,"Heriot, John Charles Allison",,,,,,,
-a003,"Brown, David Robertson",1905/2,1946,1898-1940,Studied architecture at the High School of Montreal and in Boston.,"Montreal, QC",,
-a004,"Amos, Louis Auguste",1869,1948,1893-1940,"Attended Royal Military College, Kingston Ont. in engineering; studied architecture under Arthur Cox",,,
-a005,"Boxer, Frederick (Francois) Nepheau",c. 1822,1910,,,England,,
-a006,"Comber, Sydney",1887,1961,,,,,
-a007,"Cormier, Ernest",1885,1980,1918+,"Civil Engineering and BSc from the École Polytechnique de Montreal; studied architecture at École des Beaux-Arts, Paris (1908-1914)","Montreal, QC",,
-a008,"Dunlop, Alexander Francis",,,,,,,https://digital.library.mcgill.ca/industrial/images/dunlop.jpg
-a009,"Footner, William",1798(9),1872,,,"London, England",,
-a010,"Gadbois, J. Roméo",,,,,,,
-a011,"Hettinger, C.F.",,,,,,Architect and engineer from Boston.,
-a012,"Hopkins, Edward.C.",,,,,,,
-a013,"Hopkins, John William",,,,,,,
-a014,"Hutchison, Alexander Cowper",1838,1922,1863-1914,Apprenticed as a stone-cutter with his father and attended classes at Mechanics' Institute in Montreal.,"Montreal, QC",,
-a015,"Hutchison, William Burnet",,,,,,,
-a016,"Laurent, Michel",1833(4),1891,1856-1891,Studied at Collége de Montreal.,"Montreal, QC",,
-a017,"Lawson, Harold",,,,,,,
-a018,"Little, Harold Robert",,,,,,,
-a019,"MacDuff, Joseph Honoré",,,,,,,
-a020,"MacFarlane, David Huron",,,,,,,
-a021,"Marchand, Jean (Joseph) Omer",,,,,,,
-a022,"McDougall, James Cecil",,,,,,,
-a023,"Nelson, James",,,,,,,
-a024,"Perrault, Henri Maurice",,,,,,,
-a025,"Ostell, John",1813,1892,1830-1892,Trained as architect and surveyor in England.,"London, England.",,
-a026,"Perrault, Jean-Julien",,,,,,,
-a027,"Miller, John Melville",,,,,,,
-a028,"Mitchell, Charles Alexander",,,,,,,
-a029,"Reeves, Charles Aimé",1872,1948,1898-1940,,,,
-a030,"Resther, Jean Baptiste",1830,1896,1860-1896,Studied at Christian Brothers School and under private tutors.,"Montreal, QC",,https://digital.library.mcgill.ca/industrial/images/jbresther.jpg
-a031,"Wood, George Winks",,,,,,,
-a032,"Carmichael, William John",1867,1927,1898-1925,Studied at McGill (1890).,,,
-a033,"Stone, Howard C.",,1918,1901-1918,Began practice in New York.,"Northampton, Massachusetts",,
-a034,"Robb, Frederick Garfield",1881,1936,,Attended Montreal High School; graduated from McGill School of Architecture (1907).,"Montreal, QC",,
-a035,"Wells, John",,,c.1840s,NULL,England,,
-a036,"Arrols of Clyde, William",,,,,,,
-a038,"Springle, James K.",1819,1877,1845-1872,,,,
-a039,"MacDonald, Robert Henry",,,,,,,
-a040,"Ross, George Allen",,,,,,,
-a041,"Haskell, Stevens",,,,,,,
-a042,"Dufort, Cajetan",,,,,,,
-a043,"Vallance, Hugh",,,,,,,
-a044,E.L. Horwood,,,,,,,
-a045,"Lemieux, Ludger",,,,,,,
+title,objectid,birthdate,deathdate,active,education,birthplace,notes,image_filename,sources
+"Spence, D. Jerome",a001,1873/5,1955,1901-1940,Attended School of Architecture. Massachusetts Institute of Technology (1896).,"Louisville, Kentucky U.S.A.",Awarded medal of merit by Royal Architectural Institute of Canada (R.A.I.C.) (1952).,,"Groupe Harcart Inc. ""L'edifice Unity Building: Étude historique et analyse architecturale."" Montréal: McGill University. School of Architecture, 1981: 37-57."
+"Heriot, John Charles Allison",a002,,,,,,"After studying at Cornell University, Heriot practised in the State of New York before returning to Montreal in 1893. At this time he became the partner of Alexander F. Dunlop (1842-1923) and later, Donald N. MacVicar (1869-1929). MacVicar & Heriot had an extensive practice and completed numerous designs for schools, houses, churches, office buildings and factories in Montreal.",,"Montreal, The Metropolis of Canada, Illustrated.Montréal: Consolidated Illustrating Co., 1894: 234.<br><br>Gersovitz, Julia.  ""Montreal Architects 1870-1914."" Montréal: McGill University. School of Architecture, 1980: 41-42. Unpublished student paper."
+"Brown, David Robertson",a003,1905/2,1946,1898-1940,Studied architecture at the High School of Montreal and in Boston.,"Montreal, QC",Brown began his career as a draughtsman and pupil in the office of A.F. Dunlop and later worked as a draughtsman for Hutchison and Steele. Brown also worked in Boston before returning to Montreal in 1895.,https://digital.library.mcgill.ca/industrial/images/drbrown.jpg,"Montreal, The Metropolis of Canada, Illustrated.Montréal: Consolidated Illustrating Co., 1894: 357.<br><br>Gersovitz, Julia.  ""Montreal Architects 1870-1914."" Montréal: McGill University. School of Architecture, 1980: 35-36. Unpublished student paper.<br><br>Jackson, Kathryn.  Canadian Architecture Collection: A Guide to the Archives.Montréal: McGill University, 1993: 75.<br><br>Morgan, Henry James.  Canadian Men & Women of the Times.Toronto: William Briggs, 1912: 152. "
+"Amos, Louis Auguste",a004,1869,1948,1893-1940,"Attended Royal Military College, Kingston Ont. in engineering; studied architecture under Arthur Cox",,"Member of Province of Quebec Association of Architects (1898). Amos did work for National Breweries Ltd., as well as designing malting houses and brewery stock cellars for Dow, Dawes and Eker's Breweries.",,"Amos, Louis A. Vertical File.<br><br>Gersovitz, Julia.  ""Montreal Architects 1870-1914."" Montréal: McGill University. School of Architecture, 1980: 38. Unpublished student paper.<br><br>Hill, Robert G. Compiler  ""Biographical Dictionary of Architects in Canada 1800-1950."" 1982."
+"Boxer, Frederick (Francois) Nepheau",a005,c. 1822,1910,,,England,Boxer also surveyed the boundary separating Canada and the United States and wrote a book: The Architects and Artisans Permanent Price Book and Compendium of Useful Tables and Practical Scientific Information.,,"[Obituary] Montreal Gazette,18 Mar. 1910: 6. <br><br>Boxer, F.N. Vertical File. Location: Centre canadien d'architecture/ Canadian Centre for Architecture."
+"Comber, Sydney",a006,1887,1961,,,,Member of the Province of Quebec Association of Architects (1917).,,"Hill, Robert G. Compiler  ""Biographical Dictionary of Architects in Canada 1800-1950."" 1982. Location: Canadian Architecture Collection. McGill University."
+"Cormier, Ernest",a007,1885,1980,1918+,"Civil Engineering and BSc from the École Polytechnique de Montreal; studied architecture at École des Beaux-Arts, Paris (1908-1914)","Montreal, QC",Member of the Province of Quebec Association of Architects (1918).,,"Centre canadien d'architecture.  Trois architectes-trois quartiers: Ludger Lemieux, St-Henri; Ernest Cormier, Cite universitaire; Ernest Isbell Barott, St-Antoine.Montréal: Centre canadien d'architecture, 1983.
+Visuals: portrait. <br><br>Hill, Robert G. Compiler  ""Biographical Dictionary of Architects in Canada 1800-1950."" 1982. Location: Canadian Architecture Collection. McGill University."
+"Dunlop, Alexander Francis",a008,,,,,,"Between 1871 and 1874, Dunlop worked in Boston before returning to Montreal to set up his own practice. In Montreal, Dunlop designed a number of houses, hotels, schools, and factories and employed a number of students, including Edward Maxwell (1867-1923) and Robert Findlay (1859-1951). Dunlop was one of the original members of the Royal Canadian Academy in 1880, a member of the organising committee of the Province of Quebec Association of Architects, as well as a founding member and first president of the Royal Architectural Institute of Canada.",https://digital.library.mcgill.ca/industrial/images/dunlop.jpg,"Jackson, Kathryn.  Canadian Architecture Collection: A Guide to the Archives.Montréal: McGill University, 1993: 103. <br><br>Morgan, Henry James.  Canadian Men & Women of the Times.Toronto: William Briggs, 1912: 354."
+"Footner, William",a009,1798(9),1872,,,"London, England",,,"Footner, William. Vertical File. Location: Centre canadien d'architecture/ Canadian Centre for Architecture."
+"Gadbois, J. Roméo",a010,,,,,,Member of the Province of Quebec Association of Architects (1931).,,"Hill, Robert G. Compiler  ""Biographical Dictionary of Architects in Canada 1800-1950."" 1982. Location: Canadian Architecture Collection. McGill University."
+"Hettinger, C.F.",a011,,,,,,Architect and engineer from Boston.,,
+"Hopkins, Edward.C.",a012,,,,,,"Edward C. Hopkins became a partner of his father, John W. Hopkins, in 1893; the father and son worked together until Edward relocated to Calgary in 1904.",https://digital.library.mcgill.ca/industrial/images/hopkinsec.jpg,"Hopkins, E.C. Vertical File. Location: Centre canadien d'architecture/ Canadian Centre for Architecture.<br><br>Gersovitz, Julia.  ""Montreal Architects 1870-1914."" Montréal: McGill University. School of Architecture, 1980: 42. Location: McGill University Library. Note: Unpublished student paper."
+"Hopkins, John William",a013,,,,,,"After receiving his architectural training in England, Hopkins emigrated to Canada in 1852. After his arrival in Montreal, Hopkins became the partner of James Nelson (1830-1919); Frederick Lawford (1821-1866) became a partner in 1856 and the firm remained in operation until 1860. At this time, Hopkins worked on his own until 1893 when his son, Edward C. Hopkins (1857-?) became his partner. John W. Hopkins was the first president of the Province of Quebec Association of Architects (1890-1).",https://digital.library.mcgill.ca/industrial/thumbnails/hopkinsjw.jpg,"[Obituary] Canadian Architect and Builder18:21, 1905: 178. 
+Location: McGill University Library.<br><br>Industries of Canada. City of Montreal Historical and Descriptive Review.Montréal: Historical Publishing Co., 1886: 138. 
+Location: Dept. of Rare Books and Special Collections. McGill University Library.
+<br><br>
+Montreal, The Metropolis of Canada, Illustrated.Montréal: Consolidated Illustrating Co., 1894: 143. 
+Location: Dept. of Rare Books and Special Collections. McGill University Library.
+<br><br>
+Hill, Robert G. Compiler  ""Biographical Dictionary of Architects in Canada 1800-1950."" 1982.
+Location: Canadian Architecture Collection. McGill University."
+"Hutchison, Alexander Cowper",a014,1838,1922,1863-1914,Apprenticed as a stone-cutter with his father and attended classes at Mechanics' Institute in Montreal.,"Montreal, QC",Supervised cut-stone work of Christ Church Cathedral in Montreal and eastern block of the Parliament Buildings at Ottawa.,,"Montreal, The Metropolis of Canada, Illustrated.Montréal: Consolidated Illustrating Co., 1894: 284. 
+Location: Dept. of Rare Books and Special Collections. McGill University Library.
+<br><br>
+Atherton, William.  Montreal, 1535-1914.Montréal: S.J.Clarke, 1914: 274-279. 
+Visuals: portrait.
+<br><br>
+Hill, Robert G. Compiler  ""Biographical Dictionary of Architects in Canada 1800-1950."" 1982.
+Location: Canadian Architecture Collection. McGill University.
+<br><br>
+Morgan, Henry James.  Canadian Men & Women of the Times.Toronto: William Briggs, 1912: 563. 
+Location: Dept. of Rare Books and Special Collections. McGill University Library."
+"Hutchison, William Burnet",a015,,,,,,"W.B. Hutchison was the son of Alexander Cowper Hutchison (1838-1922). He received training in the firm of Hutchison and Steele. W.B. Hutchison formed a partnership with G.W. Wood (1863-1941), who also trained at Hutchison and Steele, and John Melville Miller (1875-1948).",https://digital.library.mcgill.ca/industrial/images/hutchison.jpg,"Jackson, Kathryn.  Canadian Architecture Collection: A Guide to the Archives.Montréal: McGill University, 1993: 203. "
+"Laurent, Michel",a016,1833(4),1891,1856-1891,Studied at Collége de Montreal.,"Montreal, QC",,,"Laurent, Michel. Vertical File. 
+Location: Centre canadien d'architecture/ Canadian Centre for Architecture.
+<br><br>
+Gersovitz, Julia.  ""Montreal Architects 1870-1914."" Montréal: McGill University. School of Architecture, 1980: 46. 
+Location: McGill University Library.
+Note: Unpublished student paper.
+<br><br>
+Hill, Robert G. Compiler  ""Biographical Dictionary of Architects in Canada 1800-1950."" 1982.
+Location: Canadian Architecture Collection. McGill University."
+"Lawson, Harold",a017,,,,,,Member of the Province of Quebec Association of Architects (1919).,,"Hill, Robert G. Compiler  ""Biographical Dictionary of Architects in Canada 1800-1950."" 1982.
+Location: Canadian Architecture Collection. McGill University."
+"Little, Harold Robert",a018,,,,,,H.R. Little also worked in Calgary where he supervised large-scale construction work and later worked for the Merchants Bank of Canada. Little practised privately and in partnership with Harold Lawson (1885-1969). Little also taught in the School of Architecture at McGill University. Member of the Province of Quebec Association of Architects (1932).,,"Jackson, Kathryn.  Canadian Architecture Collection: A Guide to the Archives.Montréal: McGill University, 1993: 149. "
+"MacDuff, Joseph Honoré",a019,,,,,,,,
+"MacFarlane, David Huron",a020,,,,,,,,
+"Marchand, Jean (Joseph) Omer",a021,,,,,,,,
+"McDougall, James Cecil",a022,,,,,,,,
+"Nelson, James",a023,,,,,,,,
+"Perrault, Henri Maurice",a024,,,,,,,,
+"Ostell, John",a025,1813,1892,1830-1892,Trained as architect and surveyor in England.,"London, England.",,,"James, Ellen.  John Ostell: Architecte, Arpenteur/ Architect, Surveyor.Montréal: McCord Museum, McGill University, 1985.
+Visuals: photo portrait.
+<br><br>
+Lambert, Phyllis.  ""Redpath architect left remarkable legacy."" Montreal Gazette,7 Aug. 1999: B5. "
+"Perrault, Jean-Julien",a026,,,,,,,,
+"Miller, John Melville",a027,,,,,,,,
+"Mitchell, Charles Alexander",a028,,,,,,,,
+"Reeves, Charles Aimé",a029,1872,1948,1898-1940,,,Member of the Province of Quebec Association of Architects (1898).,,"Hill, Robert G. Compiler  ""Biographical Dictionary of Architects in Canada 1800-1950."" 1982.
+Location: Canadian Architecture Collection. McGill University."
+"Resther, Jean Baptiste",a030,1830,1896,1860-1896,Studied at Christian Brothers School and under private tutors.,"Montreal, QC",,https://digital.library.mcgill.ca/industrial/images/jbresther.jpg,"[Obituary] Canadian Architect and Builder9:6, 1896: 89. 
+Visuals: photo of architect.
+<br><br>
+Montreal, The Metropolis of Canada, Illustrated.Montréal: Consolidated Illustrating Co., 1894: 176. 
+Location: Dept. of Rare Books and Special Collections. McGill University Library.
+<br><br>
+Hill, Robert G. Compiler  ""Biographical Dictionary of Architects in Canada 1800-1950."" 1982.
+Location: Canadian Architecture Collection. McGill University."
+"Wood, George Winks",a031,,,,,,,,
+"Carmichael, William John",a032,1867,1927,1898-1925,Studied at McGill (1890).,,,,"Carmichael, W.J. Vertical File. 
+Location: Canadian Architecture Collection. McGill University.
+<br><br>
+Hill, Robert G. Compiler  ""Biographical Dictionary of Architects in Canada 1800-1950."" 1982.
+Location: Canadian Architecture Collection. McGill University.
+<br><br>
+Hill, Robert G. Compiler  ""Montreal Architects: Classified City Directory Listings 1842-1950."" 
+Location: Canadian Architecture Collection. McGill University."
+"Stone, Howard C.",a033,,1918,1901-1918,Began practice in New York.,"Northampton, Massachusetts",,,"[Obituary] Construction11:3, 1918: 100. 
+<br><br>
+Gersovitz, Julia.  ""Montreal Architects 1870-1914."" Montréal: McGill University. School of Architecture, 1980: 54-5. 
+Location: McGill University Library.
+Note: Unpublished student paper."
+"Robb, Frederick Garfield",a034,1881,1936,,Attended Montreal High School; graduated from McGill School of Architecture (1907).,"Montreal, QC",F.G. Robb also worked in New York for the office of Warren and Wetmore and supervised the construction of the Ritz-Carlton Hotel in Montreal. Worked in the office of his brother-in-law David Robertson Brown.,,"[Obituary] Journal: Royal Architectural Institute of Canada 13:5, 1936: 103. "
+"Wells, John",a035,,,c.1840s,,England,,,
+"Arrols of Clyde, William",a036,,,,,,,,
+"Springle, James K.",a038,1819,1877,1845-1872,,,,,"Springle, James K. Vertical File. Location: Canadian Architecture Collection. McGill University."
+"MacDonald, Robert Henry",a039,,,,,,,,
+"Ross, George Allen",a040,,,,,,,,
+"Haskell, Stevens",a041,,,,,,,,
+"Dufort, Cajetan",a042,,,,,,,,
+"Vallance, Hugh",a043,,,,,,,,
+E.L. Horwood,a044,,,,,,,,
+"Lemieux, Ludger",a045,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,1838,1922,1863-1914,Apprenticed as a stone-cutter with his father and attended classes at Mechanics' Institute in Montreal.,"Montreal, QC",,,
+,,1819,1877,1845-1872,,,,,
+,,1867,1927,1898-1925,Studied at McGill (1890).,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,?,?,,,,,,
+,,?,?,,,,,,

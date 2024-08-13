@@ -29,17 +29,6 @@
             {{ page[f.field] | replace: '""','"' }}{% endif %}
         </dd>
 
-    {%- comment -%}
-    Link needs to go to /architects/architect_url not items/architect_url, this field needs to go in the middle of the other metadata fields without repeating
-        {% elseif page.architect_url %}<dt>Architect:</dt>
-        <dd><a target="_self" rel="noopener" href="{{ page.architect_url }}">{{ page.architect }}</a>
-        </dd>{% endif %}
-    {%- endcomment -%}
-
-    {%- comment -%}
-        Repeat above for firms
-    {%- endcomment -%}
-
         {% endif %}{% endfor %}
     </dl>
 </div>
