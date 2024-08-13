@@ -12,7 +12,7 @@ credits: true
 
 # About Industrial Architecture of Montreal
 
-Industrial Architecture of Montreal is an index of approximately 130 industrial buildings in Montreal. It was originally created in 1999 by McGill Libraries. The site was migrated to CollectionBuilder in 2024; [view the original site from 1999 via Archive-It](https://wayback.archive-it.org/22619/20240415175427/https://digital.library.mcgill.ca/industrial/). The site's content has not been updated since its initial launch in 1999.
+Industrial Architecture of Montreal is an index of approximately 130 industrial buildings in Montreal. It was originally created in 1999 by McGill’s Blackader-Lauterman Library, led by Marilyn Berger. The site was migrated to CollectionBuilder in 2024; [view the original site from 1999 via Archive-It](https://wayback.archive-it.org/22619/20240415175427/https://digital.library.mcgill.ca/industrial/). While the site’s content has not been updated since its initial launch in 1999, certain features have been changed or modernized.
 
 For almost a century Montreal was the industrial centre of Canada. Between 1847-1945, the area surrounding the Lachine Canal had the highest concentration of industrial buildings in the country. The variety of buildings included factories, elevators, warehouses, mills, and refineries which today provide a legacy of historic and architectural interest. Beginning in the late 20th century, industrial districts of Montreal were remodeled and transformed, particularly in the vicinity of the Lachine Canal, as part of the city's deindustrialization. This project aimed collect, organize, and preserve textual and visual information on key industrial buildings before their transformations.
 
@@ -36,27 +36,26 @@ As with other North American cities, the presence of newly introduced factories 
 
 The industrial boom lasted well into our own century until changes in industrial production caused many of the factories to relocate to larger and more modern facilties and other forms of transportation made business less reliant upon water and rail. The legacy of Montreal’s early industrial period can still be seen today and many of the original factories and warehouses are being converted for residential and other commercial uses or have or are slated for demolition. The purpose of this website, then, is to document many of the industrial sites along the Lachine Canal and other areas of Montreal; preserving this civic heritage through visual and textual documentation as the city of Montreal enters the new millenium. 
 
-# Site Credits
+# Original Site Credits
 
 Initial funding for this project was generously provided by Young Canada Works in Heritage Institutions and Young Canada Works in Science and Technology. The Blackader-Lauterman Library extends its sincere appreciation to the Canadian Library Association and the Department of Canadian Heritage for making these funds available and to the Digital Collections Program, McGill University for their cooperation.
 
-Original site Produced By:
-Blackader-Lauterman Library of Architecture and Art
-<a href="http://www.mcgill.ca/library/find/digitization">Digital Collections</a>; <a href="http://www.mcgill.ca">McGill University</a>
+**Original site Produced By:**
+Blackader-Lauterman Library of Architecture and Art, McGill University
 
-Financial Assistance Graciously Provided By:
+**Financial Assistance Graciously Provided By:**
 Young Canada Works in Science and Technology and in Heritage Institutions, the Department of Canadian Heritage, and the Canadian Library Association.
 
-Project Head:
+**Project Head:**
 Marilyn Berger, Head Librarian
 
-Researcher/Project Coordinator:
+**Researcher/Project Coordinator:**
 Jessica Schaap
 
-Webmaster/Database Designer:
+**Webmaster/Database Designer:**
 David Clearwater
 
-Special Thanks Go To:
+**Special Thanks:**
 David McKnight and Marwan Al-Sabbagh, Digital
 Collections Program, McGill University;
 Dinu Bumbaru, Heritage Montreal;
@@ -66,34 +65,4 @@ Dr. Jeanne Wolfe, Department of Urban Planning, McGill University;
 Jean Letendre, Parcs Canada;
 David Janigan, Mill Manager, Kruger Inc.;
 Staff at the Rare Books and Special Collections Division, McGill University;
-Carol Marley, Walter Hitschfeld Geographic Information Centre, McGill University;
-
-## Technical Specifications for Original Site
-<b>Images</b>
-
-Archival Images Scanned at 300 DPI and Preserved in JPEG Format.&nbsp; Digital Photographs taken in 1024x768 at a Resolution of 72 DPI (Olympus D-500L) and 756x504 at 72 DPI (Kodak DC-40).&nbsp; Edited Images Distributed in JPG Format at a Resolution of 72 DPI (variable dimensions).<br>
-
-<b>Database</b>
-
-Microsoft Access 97
-
-<b>Software</b>
-
-ACDSee 32 v.2.41
-Adobe Photoshop 4.0/5.0
-Arachnophilia 3.9
-Microsoft Frontpage 98
-
-<b>Digital Cameras</b>
-
-Olympus D-500L PC Still Camera
-Kodak DC-40
-
-<b>Scanners</b>
-
-Progres 3012 Genoptik Digital Camera
- Microtek Scanmaker III
-
-<b>Server</b>
-
-HP NetServer LH Plus
+Carol Marley, Walter Hitschfeld Geographic Information Centre, McGill University
