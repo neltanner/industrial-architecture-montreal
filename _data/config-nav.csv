@@ -1,6 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/,
-About,/about.html,
+About,
+About this Site,/about.html,About
+About Montreal's Industrial Heritage,/industrial_heritage.html,About
 Browse by,
 Browse All,/browse.html,Browse by
 Architect,/browse_architects.html,Browse by

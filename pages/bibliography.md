@@ -222,13 +222,15 @@ Groupe Harcart Inc. “L’édifice Unity Building: étude historique et analyse
 
 Gubbay, Aline and Sally Hooff. _Montreal’s Little Mountain / La petite montagne: a Portrait of Westmount / Un portrait de Westmount._ Montreal: Trillium Books, 1979.
 
+Hanna, David. *Montreal: A City Built by Small Builders, 1867-1880*. PhD. Thesis. Montreal: McGill University, 1986.
+
 Hausmann, Dani. “Grain elevators.” Montreal: McGill University, School of Architecture, 1970. Unpublished student paper.
 
 Hill, Robert G. Compiler. “Biographical Dictionary of Architects in Canada 1800-1950.” Canadian Architecture Collection. McGill University. 1982
 
 Hill, Robert G. Compiler. “Montreal Architects: Classified City Directory Listings 1842-1950.” Canadian Architecture Collection. McGill University. 1982
 
-Industries of Canada. City of Montreal Historical and Descriptive Review. Montreal: Historical Publishing Co., 1886.
+*Industries of Canada: City of Montreal, historical and descriptive review, leading firms and moneyed institutions*. Montreal: Historical Publishing Company, Gazette Printing Company, 1886.
 
 Jackson, Kathryn A. _Canadian Architecture Collection: A Guide to the Archives._ Montreal: McGill University, 1993.
 
@@ -286,7 +288,7 @@ Pinsoneault, A.R. _Atlas of the Island and City of Montreal and Ile Bizard: A Co
 
 Province of Quebec Association of Architects. _Register/ Association of Architects of the Province of Quebec 1890-1940._ Montreal: Province of Quebec Association of Architects.
 
-Recollets: Les quartiers du centre-ville du Montréal/Montreal’s Downtown Neighbourhoods Montreal: Sauvons Montreal/Save Montreal, 1977.
+*Recollets: Les quartiers du centre-ville du Montréal/Montreal's Downtown Neighbourhoods*. Montreal: Sauvons Montréal/Save Montreal, 1977.
 
 Remillard, Francois, and Brian Merrett. _Montreal Architecture: A Guide to Styles and Buildings._ Montreal: Meridian Press, 1990.
 
@@ -296,9 +298,11 @@ Rose, David. _Guide du fonds Ross & Macdonald/ Guide and Inventory to the Ross &
 
 Ruddick, Susan. _Redpath Sugar Buildings: Potential for Reuse as Housing_. Montreal: Héritage Montreal; La Société d’intervention de Pointe St-Charles, 1983.
 
-Les rues de Montréal: Repertoire historique. Montreal: Meridien, 1995.
+*Les rues de Montréal: Repertoire historique*. Montreal: Meridien, 1995.
 
 Saint-Henri des Tanneries connaître Montréal par ses quartiers exposition historique musée des arts decoratifs le Château Dufresne Pie IX et Sherbrooke du 15 septembre au 1 novembre 1981. Montréal: YMCA de Montréal, 1981.
+
+Sicotte, Anne-Marie, and René Thériault. *From Steam to Cycles: The Lachine Canal Historical Guide*. Montreal: Association Les Mil Lieues, 1987.
 
 Le Silo nom. 5 du port de Montréal et son secteur: le passe, l’avenir. Montréal: l’Association québécoise pour le patrimoine industriel; Héritage Montréal, 1998.
 
