@@ -21,6 +21,7 @@ custom-foot: js/lunr-js.html
                     <li>Wildcards: add <code>*</code> to match any character(s), e.g. <code>foo*</code>, <code>*oo</code>. This is helpful for using a root to find words with all related endings.</li>
                     <li>Fuzzy match: add <code>~</code> plus a number at the end of your query to specify a higher level of fuzziness in search, e.g. <code>foo~1</code>. This can help with misspellings.</li>
                     <li>Boost term: add <code>^</code> plus a number to boost the relevance of a term in your query, e.g. <code>foo^10</code>. This can help reduce clutter of unrelated results if one of your terms is most important.</li>
+                    <li>Term presence: use the prefixes <code>+</code> or <code>-</code> to indicate that a term must or must not be present in matching documents. By default, Lunr combines multiple terms together in a search with a logical OR. To simulate a logical AND, mark both terms as required, e.g. <code>+building_materials:brick +building_type:factory</code></li>
                 </ul>
             </div>
         </div>
