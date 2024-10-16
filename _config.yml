@@ -10,7 +10,7 @@
 # site domain, full URL to the production location of your collection
 url: https://digital.library.mcgill.ca
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /industrial-architecture-montreal
+baseurl: /industrial
 # location of code, the full url to your github repository
 source-code: https://github.com/neltanner/industrial-architecture-montreal
 
