@@ -13,7 +13,7 @@ credits: true
 # About Industrial Architecture of Montreal
 
 ## About the 2024 Redesign
-Industrial Architecture of Montreal is an index of approximately 130 industrial buildings in Montreal. It was originally created in 1999 by McGill’s Blackader-Lauterman Library, led by Marilyn Berger. The site was migrated to [CollectionBuilder](https://collectionbuilder.github.io/) in 2024; [view the original site from 1999 via Archive-It](https://wayback.archive-it.org/22619/20240415175427/https://digital.library.mcgill.ca/industrial/). While the site’s content has not been updated since its initial launch in 1999, certain features have been changed or modernized.
+Industrial Architecture of Montreal is an index of approximately 130 industrial buildings in Montreal. It was originally created in 1999 by McGill’s Blackader-Lauterman Library, led by Marilyn Berger. The site was migrated to [CollectionBuilder](https://collectionbuilder.github.io/) in 2024; [view the original site from 1999 via the Internet Archive's Wayback Machine](https://wayback.archive-it.org/22619/20240415175427/https://digital.library.mcgill.ca/industrial/). While the site’s content has not been updated since its initial launch in 1999, certain features have been changed or modernized.
 
 The buildings photographs taken by McGill Libraries staff in 1999 are licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). Unfortunately, during the site migration we were unable to locate higher resolution images without copyright watermarks.
 
