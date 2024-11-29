@@ -17,6 +17,8 @@ Industrial Architecture of Montreal is an index of approximately 130 industrial 
 
 The buildings photographs taken by McGill Libraries staff in 1999 are licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). Unfortunately, during the site migration we were unable to locate higher resolution images without copyright watermarks.
 
+Questions about the site can be directed to [rarebooks.library@mcgill.ca](mailto:rarebooks.library@mcgill.ca).
+
 ## About the Original Site
 
 For almost a century Montreal was the industrial centre of Canada. Between 1847-1945, the area surrounding the Lachine Canal had the highest concentration of industrial buildings in the country. The variety of buildings included factories, elevators, warehouses, mills, and refineries which today provide a legacy of historic and architectural interest. Beginning in the late 20th century, industrial districts of Montreal were remodeled and transformed, particularly in the vicinity of the Lachine Canal, as part of the city's deindustrialization. This project aimed collect, organize, and preserve textual and visual information on key industrial buildings before their transformations.
